@@ -1,0 +1,51 @@
+body{
+    background-color: beige;
+}
+
+.h1tag{
+   font-size: 25px;
+   padding: 10px;
+}
+
+.form1{
+    text-align: center;
+    padding: 10px;
+}
+.div_gender{
+    padding: 5px;
+    margin: 2px;
+}
+
+.txb{
+    text-align: center;
+    margin-left: 20px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.selection1{
+    padding: 3px;
+    margin: 5px;
+}
+
+.address1{
+    width: 400px;
+    height: 100px;
+    margin: 5px;
+}
+
+.hb1{
+    padding: 5px;
+}
+.submit{
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    width: 200px;
+
+    border: transparent;
+    background-color: lightskyblue;
+}
+.submit:hover{
+    background-color: blue;
+}
